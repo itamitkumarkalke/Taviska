@@ -1,0 +1,5 @@
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb

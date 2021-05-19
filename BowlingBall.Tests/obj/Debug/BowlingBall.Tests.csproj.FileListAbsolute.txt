@@ -1,0 +1,16 @@
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.pdb
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.pdb
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csprojAssemblyReference.cache
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CoreCompileInputs.cache
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CopyComplete
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.dll
+C:\AmitK\Projects\Taviska\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.pdb
